@@ -1,2 +1,1 @@
-# WECHAT_FR_UI
-# WECAHTFR-UI
+
