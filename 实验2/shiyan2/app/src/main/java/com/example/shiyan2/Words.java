@@ -2,9 +2,7 @@ package com.example.shiyan2;
 
 import android.provider.BaseColumns;
 
-/**
- * Created by Cathleen on 2016/9/7.
- */
+
 public class Words {
     public Words() {
     }
